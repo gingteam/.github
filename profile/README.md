@@ -3,7 +3,7 @@
 # GingTeam
 Made a simple
 
-Hello, here we make simple things. Join us to share and learn more!
+Join us to share and learn more!
 - Code sharing
 - Learn, exchange
 - Keep CI green
